@@ -2,6 +2,9 @@
 
 Pass Vault is a simple password manager application built with Rust. It allows users to securely store and manage their passwords. The application provides functionalities to add, list, and search for password entries.
 
+![WhatsApp Image 2024-08-08 at 15 04 54_4104333d](https://github.com/user-attachments/assets/7cae1918-2cf7-4749-b8f5-bb1408455880)
+
+
 ## Features
 
 - Add new password entries
